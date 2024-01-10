@@ -1,4 +1,4 @@
-# BreadcrumbsEmergency-Vechile-Classification-using-audio-and-image
+# Emergency Vehicle Classification Using Audio and Image
 
 For Emergency Vehicle Classification using both audio and image data, the objective is to differentiate emergency vehicles (such as ambulances, fire trucks, and police cars) from other vehicles. This classification task utilizes both audio signals (siren sounds) and image data (visual cues) to identify emergency vehicles. The goal is to address traffic delay fatalities by promptly recognizing emergency vehicles amidst traffic.
 
